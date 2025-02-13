@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lion3ngineer
+- 👋 Hi, I’m @Yehoishua
 - 👀 I’m interested in ...Programming games and web development
 - 🌱 I’m currently learning ...HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
